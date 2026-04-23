@@ -22,4 +22,12 @@ Plate STLs
 | ------------- | ---------------------------------------------------------------------------------------------------- |
 |               | <div data-gb-custom-block data-tag="file" data-src=".gitbook/assets/FingertipSocket.stl"></div>      |
 |               | <div data-gb-custom-block data-tag="file" data-src=".gitbook/assets/AllFingertipButThumb.3mf"></div> |
-|               | <div data-gb-custom-block data-tag="file" data-src=".gitbook/assets/AllFingertipTPU.3mf"></div>      |
+|               | <div data-gb-custom-block data-tag="file" data-src=".gitbook/assets/AllFingertipTPU.3mf"></
+
+
+### Encoder Mounts
+
+| Print Setting | Files                                                                                                |
+| ------------- | ---------------------------------------------------------------------------------------------------- |
+|               | <div data-gb-custom-block data-tag="file" data-src=".gitbook/assets/SensorSuiteSmallMagnetRightHand.3mf"></div>      |
+		
