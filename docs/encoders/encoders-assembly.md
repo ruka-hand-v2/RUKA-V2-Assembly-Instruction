@@ -37,27 +37,29 @@ Tighten the single securing screw visible from the top of the hand frame.
 The index finger assembly requires careful alignment of pins and magnets:
 
 1. **Relieve Frame Tension**: Temporarily loosen or remove the springs and pins if the frame is too tight to allow the holders to slide on.
-2. **MCP Installation**:
+
+2. **DIP Installation**:
+Slide the DIP sensor holder onto the tip joint.
+Insert the small circular magnet holder onto the pin.
+Slide the 3D-printed securing part in to lock the assembly.
+
+![](../.gitbook/assets/step5.gif)
+
+3. **MCP and PIP Installation**:
 Slide the MCP sensor holder onto the joint (this is a tight fit and may require force).
 Position the magnet into the pin (use pliers if necessary to guide it until it snaps into place).
 
 ![](../.gitbook/assets/step6.gif)
 
-3. **DIP Installation**:
-Slide the DIP sensor holder onto the tip joint.
-Insert the small circular magnet holder onto the pin.
-Slide the 3D-printed securing part in to lock the assembly.
 4. **Finalize Index Frame**:
 Ensure all pins are fully seated.
 Tighten the outer-most screw on the MCP section.
 Re-hook the DIP and PIP springs and tighten their securing screws to restore finger tension.
 
-![](../.gitbook/assets/step5.gif)
-
 #### 4. Electronics Reintegration
 
-* **Mount Multiplexer**: Place the red TCA9548A I2C multiplexer board back onto the rear of the hand.
-* **Connect Qwiic Cables**: Plug the Qwiic cables from the multiplexer into each sensor according to the following mapping (based on the calibration JSON):
+* **Mount Multiplexer**: Place the red TCA9548A I2C multiplexer board ([SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A)](https://www.sparkfun.com/sparkfun-qwiic-mux-breakout-8-channel-tca9548a.html)) back onto the rear of the hand.
+* **Connect Qwiic Cables**: Plug the [Qwiic cables](https://www.sparkfun.com/flexible-qwiic-cable-200mm.html) from the multiplexer (for a quick hookup guide, see the [Qwiic Mux Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-mux-hookup-guide)) into each sensor according to this suggested mapping (based on the calibration JSON):
 
 | Mux Port | Sensor Name | Joint Type |
 | :---: | :--- | :--- |
@@ -75,5 +77,5 @@ Re-hook the DIP and PIP springs and tighten their securing screws to restore fin
 #### 5. Verification
 
 After assembly, run the following to verify sensor readings:
-1. Open the `firmware/Microcontroller_AS5600.ino` in the Arduino IDE to check the Serial Monitor.
+1. Open the [`firmware/Microcontroller_AS5600.ino`](https://github.com/ruka-hand-v2/RUKA-v2/tree/main/ruka_encoders/firmware) in the Arduino IDE to check the Serial Monitor.
 2. Run a calibration test to ensure all sensors are tracking correctly.
