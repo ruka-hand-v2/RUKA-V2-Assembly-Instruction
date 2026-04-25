@@ -22,3 +22,6 @@
 ## Software
 
 * [Calibration](software/motion-check.md)
+
+## Encoders
+* [Encoders](encoders/encoders-assembly.md)
