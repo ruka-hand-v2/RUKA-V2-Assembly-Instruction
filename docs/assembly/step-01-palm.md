@@ -6,8 +6,6 @@ In addition to the video instructions, using a razor blade to push the heat-set 
 
 {% embed url="https://youtu.be/P7nHyI1TwKY" %}
 
-
-
 ### Materials
 
 #### Tools
@@ -20,13 +18,9 @@ In addition to the video instructions, using a razor blade to push the heat-set 
 
 Please prepare all the 3D printed parts, almost all of which will be used in this section
 
-
-
 #### Hardware (Inserts)
 
 <table><thead><tr><th width="202.56640625">Part Name</th><th width="144.5703125">Total Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 mm insert</td><td>11</td></tr><tr><td>M2 x 4 x 3.5 mm insert</td><td>40</td></tr><tr><td>M2 x 6 x 3.5 mm insert</td><td>6</td></tr><tr><td>M3 x 4 x 5 mm insert</td><td>1</td></tr><tr><td>M5 x 6 x 7 mm insert</td><td>23</td></tr></tbody></table>
-
-
 
 ### Instructions
 
@@ -34,46 +28,46 @@ Please prepare all the 3D printed parts, almost all of which will be used in thi
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>2 * 3</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3 * 3</td></tr></tbody></table>
 
-| Joint 1                                                                             | Joint 2                                                               | Joint 3                                                                             |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| \[1] M2 x 4 x 3.5                                                                   | \[2] M2 x 2 x 3.5                                                     | \[2] M2 x 4 x 3.5                                                                   |
-| <p><img src="../.gitbook/assets/joint1.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/joint2.gif" alt="" data-size="original"> | <p></p><p><img src="../.gitbook/assets/joint3.gif" alt="" data-size="original"></p> |
+| Joint 1                                                               | Joint 2                                                               | Joint 3                                                               |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| \[1] M2 x 4 x 3.5                                                     | \[2] M2 x 2 x 3.5                                                     | \[2] M2 x 4 x 3.5                                                     |
+| <img src="../.gitbook/assets/joint1.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/joint2.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/joint3.gif" alt="" data-size="original"> |
 
 #### 2. Pinky
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>2</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>3</td></tr></tbody></table>
 
-| Joint 1                                                                                 | Joint 2                                                                                 | Joint 3                                                                   |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| \[1] M2 x 4 x 3.5                                                                       | \[2] M2 x 2 x 3.5                                                                       | \[2] M2 x 4 x 3.5                                                         |
-| <p><img src="../.gitbook/assets/joint1 (1).gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/joint2 (1).gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/joint3 (1).gif" alt="" data-size="original"> |
+| Joint 1                                                                   | Joint 2                                                                   | Joint 3                                                               |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| \[1] M2 x 4 x 3.5                                                         | \[2] M2 x 2 x 3.5                                                         | \[2] M2 x 4 x 3.5                                                     |
+| <img src="../.gitbook/assets/joint1 (1).gif" alt="" data-size="original"> | <img src="../.gitbook/assets/joint2 (1).gif" alt="" data-size="original"> | <img src="../.gitbook/assets/joint3.gif" alt="" data-size="original"> |
 
 #### 3. Thumb
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>4</td></tr><tr><td>M3 x 4 x 5 Heat Set Inserts</td><td>1</td></tr></tbody></table>
 
-| Joint1                                                                           | Joint2                                                                           | Joint3                                                                   |
-| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| \[1] M2 x 4 x 3.5                                                                | \[2] M2 x 4 x 3.5                                                                | <p>[1] M3 x 4 x 5, <br>[1] M2 x 4 x 3.5</p>                              |
-| <p><img src="../.gitbook/assets/tip.gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/mid.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/image (2).gif" alt="" data-size="original"> |
+| Joint1                                                             | Joint2                                                             | Joint3                                                               |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| \[1] M2 x 4 x 3.5                                                  | \[2] M2 x 4 x 3.5                                                  | <p>[1] M3 x 4 x 5,<br>[1] M2 x 4 x 3.5</p>                           |
+| <img src="../.gitbook/assets/tip.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/mid.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/image.gif" alt="" data-size="original"> |
 
 #### 4. Knuckle
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 2 x 3.5 Heat Set Inserts</td><td>3</td></tr><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>4</td></tr></tbody></table>
 
-| Index                                                                                  | Ring & Pinky                                                                          | Middle                              |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------- |
-| <p>[1] M2 x 2 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                          | <p>[1] M2 x 2 x 3.5, <br>[1] M2 x 4 x 3.5</p>                                         | \[1] M2 x 4 x 3.5                   |
-| <p><img src="../.gitbook/assets/index (1).gif" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/ring (1).gif" alt="" data-size="original"></p><p></p> | ![](../.gitbook/assets/knuckle.gif) |
+| Index                                                                    | Ring & Pinky                                                            | Middle                              |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------- |
+| <p>[1] M2 x 2 x 3.5,<br>[1] M2 x 4 x 3.5</p>                             | <p>[1] M2 x 2 x 3.5,<br>[1] M2 x 4 x 3.5</p>                            | \[1] M2 x 4 x 3.5                   |
+| <img src="../.gitbook/assets/index (1).gif" alt="" data-size="original"> | <img src="../.gitbook/assets/ring (1).gif" alt="" data-size="original"> | ![](../.gitbook/assets/knuckle.gif) |
 
 #### 5. Palm & Backhand
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M2 x 4 x 3.5 Heat Set Inserts</td><td>12</td></tr><tr><td>M2 x 6 x 3.5 Heat Set Inserts</td><td>6</td></tr></tbody></table>
 
-| Front                                                                                   | Back                                                                     | Inside                              |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------- |
-| \[2] M2 x 4 x 3.5                                                                       | \[2] M2 x 4 x 3.5                                                        | \[3] M2 x 4 x 3.5                   |
-| <p><img src="../.gitbook/assets/back_front.gif" alt="" data-size="original"></p><p></p> | <img src="../.gitbook/assets/back_back.gif" alt="" data-size="original"> | ![](../.gitbook/assets/back_in.gif) |
+| Front                                                                     | Back                                                                     | Inside                              |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------- |
+| \[2] M2 x 4 x 3.5                                                         | \[2] M2 x 4 x 3.5                                                        | \[3] M2 x 4 x 3.5                   |
+| <img src="../.gitbook/assets/back_front.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/back_back.gif" alt="" data-size="original"> | ![](../.gitbook/assets/back_in.gif) |
 
 | Front                                   | Back                                   | Inside                               |
 | --------------------------------------- | -------------------------------------- | ------------------------------------ |
@@ -86,29 +80,29 @@ Please prepare all the 3D printed parts, almost all of which will be used in thi
 
 Wrist Connector
 
-| Top & Bottom                                                                               | Middle                                   |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| \[2] M2 x 4 x 3.5                                                                          | \[1] M5 x 6 x 7                          |
-| <p><img src="../.gitbook/assets/connector (1).gif" alt="" data-size="original"></p><p></p> | ![](<../.gitbook/assets/middle (1).gif>) |
+| Top & Bottom                                                             | Middle                                   |
+| ------------------------------------------------------------------------ | ---------------------------------------- |
+| \[2] M2 x 4 x 3.5                                                        | \[1] M5 x 6 x 7                          |
+| <img src="../.gitbook/assets/connector.gif" alt="" data-size="original"> | ![](<../.gitbook/assets/middle (1).gif>) |
 
 Wrist Base
 
-| Wrist Linkage                                                                     | Wrist Base                                                          |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| \[3] M5 x 6 x 7                                                                   | \[4] M2 x 4 x 3.5                                                   |
-| <p></p><p><img src="../.gitbook/assets/link.gif" alt="" data-size="original"></p> | <img src="../.gitbook/assets/base.gif" alt="" data-size="original"> |
+| Wrist Linkage                                                       | Wrist Base                                                          |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| \[3] M5 x 6 x 7                                                     | \[4] M2 x 4 x 3.5                                                   |
+| <img src="../.gitbook/assets/link.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/base.gif" alt="" data-size="original"> |
 
 #### 7. Top Motor Panel
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M5 x 6 x 7 Heat Set Inserts</td><td>3</td></tr></tbody></table>
 
-<table><thead><tr><th width="343.33984375">Top Panel</th></tr></thead><tbody><tr><td>[3] M5 x 6 x 7</td></tr><tr><td><p><img src="../.gitbook/assets/top.gif" alt="" data-size="original"></p><p></p></td></tr></tbody></table>
+<table><thead><tr><th width="343.33984375">Top Panel</th></tr></thead><tbody><tr><td>[3] M5 x 6 x 7</td></tr><tr><td><img src="../.gitbook/assets/top.gif" alt="" data-size="original"></td></tr></tbody></table>
 
 #### 8. Motor Base
 
 <table><thead><tr><th width="243.015625">Part Name</th><th width="223.03515625">Quantity</th></tr></thead><tbody><tr><td>M5 x 6 x 7 Heat Set Inserts</td><td>16</td></tr></tbody></table>
 
-|                                                                                    |                                                                                |                                     |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------- |
-| \[2] M5 x 6 x 7                                                                    | \[5] M5 x 6 x 7                                                                | \[2] M5 x 6 x 7                     |
-| <p><img src="../.gitbook/assets/thumb.gif" alt="" data-size="original"></p><p></p> | <p></p><p><img src="../.gitbook/assets/6.gif" alt="" data-size="original"></p> | ![](../.gitbook/assets/connect.gif) |
+|                                                                      |                                                                  |                                     |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------- |
+| \[2] M5 x 6 x 7                                                      | \[5] M5 x 6 x 7                                                  | \[2] M5 x 6 x 7                     |
+| <img src="../.gitbook/assets/thumb.gif" alt="" data-size="original"> | <img src="../.gitbook/assets/6.gif" alt="" data-size="original"> | ![](../.gitbook/assets/connect.gif) |

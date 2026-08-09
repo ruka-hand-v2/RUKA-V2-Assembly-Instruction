@@ -4,8 +4,6 @@
 
 * Make sure that the ball joint is polished, and test it with the wrist connector; it should move freely.
 
-
-
 ### 2. Assembly Instruction
 
 {% embed url="https://youtu.be/Rm0DyU4A358" %}
@@ -23,13 +21,7 @@
 
 <figure><img src="../.gitbook/assets/base (1).gif" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/bearing.gif" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 #### Wrist Assembly
 
@@ -41,17 +33,13 @@
 | M5 Washer        | >8       |
 | M5 Lock Nuts     | 5        |
 
-1. Press the wrist connector into the inner linkage.&#x20;
+1. Press the wrist connector into the inner linkage.
 
 <figure><img src="../.gitbook/assets/inner.gif" alt=""><figcaption></figcaption></figure>
 
-
-
-2. Use four M2 \* 12 screw to fix it. <mark style="color:$danger;">CAUTION: Do not over-tighten the screws; make sure that the grey part moves freely.</mark>&#x20;
+2. Use four M2 \* 12 screw to fix it. <mark style="color:$danger;">CAUTION: Do not over-tighten the screws; make sure that the grey part moves freely.</mark>
 
 <figure><img src="../.gitbook/assets/inner_screw.gif" alt=""><figcaption></figcaption></figure>
-
-
 
 3. Assemble the wrist as shown below. Please refer to the assembly video for more specific steps.
 
@@ -62,10 +50,6 @@
 <figure><img src="../.gitbook/assets/wrist.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/wrist_axis.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 #### Wrist Routing
 
@@ -78,14 +62,10 @@ Things to Prepare:
 * Tape
 * Tweezers
 
-
-
 <mark style="color:$danger;">Things to Pay Attention:</mark>
 
 * <mark style="color:$danger;">Make sure that the strings are not entangling with each other.</mark>
-* &#x20;<mark style="color:$danger;">Verify finger movement after routing.</mark>
-
-
+* <mark style="color:$danger;">Verify finger movement after routing.</mark>
 
 Steps:
 
@@ -97,17 +77,14 @@ Steps:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-03-04 at 01.11.58.png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### Bearing Plate
 
-The printer setting may affect the dowel hole size. If you find it is extremely difficult to insert the dowel, please try re-printing the plate with a larger layer height, or use a 2.5mm drill to enlarge the hole.&#x20;
+The printer setting may affect the dowel hole size. If you find it is extremely difficult to insert the dowel, please try re-printing the plate with a larger layer height, or use a 2.5mm drill to enlarge the hole.
 
 <figure><img src="../.gitbook/assets/7B8C6E87-BC91-46EE-A5E5-320FA5DCD4B7_1_105_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/YHv7OPIKRvE" %}
 
-| Ring Finger Plate                                                               | Thumb + Middle + Index                                                                                                     | Pinky                                                                                                                      |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| ![](<../.gitbook/assets/151A4A15-2B52-45D9-B8B3-14B13A85DD86_1_105_c (1).jpeg>) | <p><img src="../.gitbook/assets/8C3C864C-D76F-4D1B-A166-53389E9B303A_1_105_c.jpeg" alt="" data-size="original"></p><p></p> | <p><img src="../.gitbook/assets/AB6C4F3F-D8A5-42CD-962A-B9747D47DD46_1_105_c.jpeg" alt="" data-size="original"></p><p></p> |
-
+| Ring Finger Plate                                                         | Thumb + Middle + Index                                                                                       | Pinky                                                                                                        |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| ![](../.gitbook/assets/151A4A15-2B52-45D9-B8B3-14B13A85DD86_1_105_c.jpeg) | <img src="../.gitbook/assets/8C3C864C-D76F-4D1B-A166-53389E9B303A_1_105_c.jpeg" alt="" data-size="original"> | <img src="../.gitbook/assets/AB6C4F3F-D8A5-42CD-962A-B9747D47DD46_1_105_c.jpeg" alt="" data-size="original"> |

@@ -6,7 +6,7 @@
 
 1. Attach motors in the motor base following the motor ID graph. (Motor 15, 16: W210R)
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-03-24 at 18.44.34 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-24 at 18.44.34.png" alt=""><figcaption></figcaption></figure>
 
 2. Assemble the base.
 
