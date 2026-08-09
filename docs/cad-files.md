@@ -6,7 +6,7 @@ icon: file-cad
 
 ### Complete CAD File
 
-put link here
+[RUKA-V2](https://cad.onshape.com/documents/59040ba514e65eea2b4930b4/w/888a0bf0536dace5ae45ae11/e/b99b5b115b7d9a00526e0b03?renderMode=0\&uiState=6a787c7d9190f53244ae9687)
 
 ### Download and print parts
 
